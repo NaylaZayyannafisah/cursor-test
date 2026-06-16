@@ -1,10 +1,10 @@
 ### Michal Suski
 
-## Title: Michal Suski AI SEO Optimization
+# Title: Michal Suski AI SEO Optimization
 
-# URL: https://www.youtube.com/watch?v=o25--P_u8RA&list=PLQcRJfpdUsd8&index=11
+URL: https://www.youtube.com/watch?v=o25--P_u8RA&list=PLQcRJfpdUsd8&index=11
 
-# Note: This video is 1:01:55 long so I didn't insert the full transcript here and insert the extracted materials only
+Note: This video is 1:01:55 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/michal-suski.txt
 
 # YouTube Transcript Summary: Michal Suski (Co-Founder, Surfer SEO)
 * **Topic:** AI Search Optimization & Reverse Engineering LLMs
