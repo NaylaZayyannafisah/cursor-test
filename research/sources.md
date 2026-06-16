@@ -1,0 +1,1 @@
+* **Expert Bio:** Michal Suski is the co-founder of Surfer SEO, an industry-leading on-page SEO optimization platform founded in 2017.
