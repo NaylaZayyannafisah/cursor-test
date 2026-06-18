@@ -10,8 +10,10 @@ URL: https://www.linkedin.com/posts/lily-ray-44755615_this-is-something-ive-been
 
 1. **Scaling AI Content Is Risky**
 AI-generated content can cause short-term traffic gains followed by severe and long-lasting visibility declines.
+
 2. **Search Engines Detect Manipulation**
 Google and Bing have sophisticated systems to identify AI abuse and artificial content refreshing.
+
 3. **Sustainable SEO Matters**
 Protecting long-term visibility is more important than chasing quick wins.
 
