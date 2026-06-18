@@ -6,7 +6,7 @@ Date: 15/03/2026
 
 URL: https://www.youtube.com/watch?v=HzgMpTVJpz0&list=PLQcRJfpdUsd8&index=3
 
-Note: This video is 26:44 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/nathan-gotch.txt
+Note: This video is 26:44 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/transcript-files/nathan-gotch.txt
 
 # YouTube Transcript Summary: Nathan Gotch (Founder, Gotch SEO)
 * **Topic:** How To Actually Learn and Master AI SEO (2026 Framework)

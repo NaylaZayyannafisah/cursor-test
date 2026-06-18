@@ -6,7 +6,7 @@ Date: 03/12/2024
 
 URL: https://www.youtube.com/watch?v=xLWBDKX-_3Q&list=PLQcRJfpdUsd8
 
-Note: This video is 39:52 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/ross-simmonds.txt
+Note: This video is 39:52 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/transcript-files/ross-simmonds.txt
 
 # YouTube Transcript Summary: Ross Simmonds (Founder & CEO, Foundation)
 * **Topic:** How To Rank #1 When AI Is Taking Over

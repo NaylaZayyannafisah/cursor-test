@@ -6,7 +6,7 @@ Date: 29/10/2025
 
 URL: https://www.youtube.com/watch?v=xG9Vu9yrQzw&list=PLQcRJfpdUsd8&index=4
 
-Note: This video is 12:47 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/neil-patel.txt
+Note: This video is 12:47 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/transcript-files/neil-patel.txt
 
 # YouTube Transcript Summary: Matt Diggity
 

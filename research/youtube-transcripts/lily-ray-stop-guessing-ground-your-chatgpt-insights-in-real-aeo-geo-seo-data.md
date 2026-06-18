@@ -6,7 +6,7 @@ Date: 04/02/2026
 
 URL: https://www.youtube.com/watch?v=T08LW1gU8-Q&list=PLQcRJfpdUsd8&index=5
 
-Note: This video is 34:54 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/lily-ray.txt
+Note: This video is 34:54 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/transcript-files/lily-ray.txt
 
 # YouTube Transcript Summary: Lily Ray (VP of SEO Amsive / International SEO Specialist)
 **Expert:** Lily Ray (VP of SEO Strategy at Amsive / International SEO Specialist)

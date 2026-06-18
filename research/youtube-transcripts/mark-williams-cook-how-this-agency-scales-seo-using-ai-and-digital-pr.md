@@ -4,7 +4,7 @@
 
 URL: https://www.youtube.com/watch?v=m7OyGF3mU0g&list=PLQcRJfpdUsd8&index=6
 
-Note: This video is 46:31 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/mark-williams-cook.txt
+Note: This video is 46:31 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/transcript-files/mark-williams-cook.txt
 
 # YouTube Transcript Summary: Mark Williams-Cook
 **Expert:** Mark Williams-Cook (Director at Candour & Founder of AlsoAsked)
