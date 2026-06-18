@@ -8,6 +8,7 @@ Note: This video is 1:01:55 long so I didn't insert the full transcript here and
 
 # YouTube Transcript Summary: Michal Suski (Co-Founder, Surfer SEO)
 * **Topic:** AI Search Optimization & Reverse Engineering LLMs
+* **Expert Bio:** Michal Suski is the co-founder of Surfer SEO, an industry-leading on-page SEO optimization platform founded in 2017.
 * **Core Subject:** Transitioning traditional SEO methodologies into Generative Engine Optimization (GEO) and understanding how LLMs pull, cite, and value content.
 
 ## ✂️ Extracted Technical Material & Frameworks
