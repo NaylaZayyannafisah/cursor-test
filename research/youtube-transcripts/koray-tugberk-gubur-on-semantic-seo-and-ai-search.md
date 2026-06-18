@@ -2,6 +2,8 @@
 
 # Title: Koray Tugberk GÜBÜR on Semantic SEO and AI Search
 
+Date: 15/01/2026
+
 URL: https://www.youtube.com/watch?v=H3DVT2dVDyQ&list=PLQcRJfpdUsd8&index=8
 
 Note: This video is 58:24 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/koray-tugberk-gubur.txt

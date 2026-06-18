@@ -2,6 +2,8 @@
 
 # Title: SEO & Content Marketing in the Age of AI – Kevin Indig Explains
 
+Date: 25/08/2025
+
 URL: https://www.youtube.com/watch?v=JLpVV0sQrfg&list=PLQcRJfpdUsd8&index=2
 
 Note: This video is 27:55 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/kevin-indig.txt

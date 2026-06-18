@@ -2,6 +2,8 @@
 
 # Title: Stop Guessing! Ground Your ChatGPT Insights in Real AEO/GEO/SEO Data with Lily Ray
 
+Date: 04/02/2026
+
 URL: https://www.youtube.com/watch?v=T08LW1gU8-Q&list=PLQcRJfpdUsd8&index=5
 
 Note: This video is 34:54 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/lily-ray.txt
