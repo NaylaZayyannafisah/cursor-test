@@ -4,7 +4,7 @@
 
 URL: https://www.youtube.com/watch?v=BjyF_4UhoOM&list=PLQcRJfpdUsd8&index=7
 
-Note: This video is 1:01:55 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/aleyda-solis.txt
+Note: This video is 1:03:54 long so I didn't insert the full transcript here and insert the extracted materials only. The original transcript is in /research/files/aleyda-solis.txt
 
 # YouTube Transcript Summary: Aleyda Solis (International SEO Consultant & Founder, Orainti)
 * **Topic:** The AI Search Optimization Roadmap (GEO & AEO Blueprint)
