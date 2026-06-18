@@ -1,6 +1,6 @@
 ### Nathan Gotch
 
-# Title: 
+# Title: How To ACTUALLY Learn AI SEO (in 2026)
 
 URL: https://www.youtube.com/watch?v=HzgMpTVJpz0&list=PLQcRJfpdUsd8&index=3
 
