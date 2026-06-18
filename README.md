@@ -1,26 +1,44 @@
-Hi, I'm Nayla
+## Research Project: AI-Powered SEO Content Production
 
-It's been a while since I last touched Git and terminal stuff, so this was a good refresher. This is my new mac (migrated from windows laptop), which meant starting from scratch on a lot of things.
+### Research Goal
 
-Here is what I did to create this project:
-1. Downloaded and installed Cursor and Visual Studio Code.
-2. Check git version, apparently macOS have git installed already. Saved me a lot of time.
-3. The system prompted me to install Xcode, but the installation didn't completed properly. I didn't catch it at the time and moved on.
-4. Followed several tutorials how to setting up git, which led me to also install Homebrew.
-5. Homebrew installation failed and I didn't know why, so I asked GPT and realised the problem is the incomplete Xcode installation from step 3, I configured and fixed it.
-6. I configured git authentication in terminal using SSH username, email, and key from Github Docs and youtube video. Finally, setting up git is done.
-7. Created a public repo in Github, created the README.md file, and initialized git in my local project.
-8. Installed Claude Code and Codex extensions in Cursor.
-9. Wrote this README, commited, and pushed. Done!
+The goal of this project was to build a collection of high-quality materials from practitioners actively working in AI-powered SEO and content production. Rather than collecting a large volume of content, I focused on finding relevant and high-signal sources that could later be used to create a practical playbook.
 
-Tools I Installed:
-- Cursor and VSCode IDE
-- Homebrew for Git authentication in terminal
-- Claude Code and Codex externsions in Cursor
+### What I Collected
 
-Issues & How I Solved Them:
-- Xcode silent install failure. 
-The installation appeared to go through but didn't complete. I didn't notice until Homebrew failed later. The fix was simple once I identified it; the tricky part was knowing what to look for. GPT helped me narrow down the cause quickly.
+This repository contains:
 
-Looking forward to the next step. Hope I will have a nice portfolio at the end of this project and land the job. Thanks for reading!
-- Nayla
+* A curated list of 10 experts working in SEO, content marketing, and AI-assisted content production.
+* Recent LinkedIn posts organized by author.
+* YouTube video transcripts organized by video.
+* Additional supporting materials when relevant.
+* Source annotations with links and publication dates.
+
+### Why I Chose These Experts
+
+I selected experts who actively share practical insights instead of generic marketing advice. I prioritized people who:
+
+* Regularly publish content about SEO and AI workflows.
+* Have recent and active content on LinkedIn and YouTube.
+* Focus on implementation and real-world experience.
+* Provide actionable ideas that can support future playbooks and content systems.
+
+During the research process, I found that not every piece of content matched the topic. I reviewed and filtered materials to keep only sources that were closely related to AI-powered SEO content production and organized them into a structured repository.
+
+### Tools Used
+
+* Cursor IDE
+* Claude, ChatGPT, Gemini
+* Git and GitHub
+* YouTube transcripts and publicly available online resources
+
+### Repository Structure
+
+* `/research/sources.md`
+* `/research/linkedin-posts/`
+* `/research/youtube-transcripts/`
+* `/research/other/`
+* `/research/photos/`
+* `/research/transcript-files/`
+
+This project was created as part of the application process for 100Hires and serves as a personal knowledge repository that can be expanded into future playbooks and research projects.

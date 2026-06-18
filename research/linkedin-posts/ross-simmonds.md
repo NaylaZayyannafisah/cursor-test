@@ -9,6 +9,17 @@ URL: https://www.linkedin.com/posts/rosssimmonds_marketing-openai-chatgpt-share-
 
 ## Key Themes:
 
+**1. Content Becomes Training Data**
+The content, publications, and communities brands invest in today will influence AI models tomorrow.
+
+**2. There Are Two Internets**
+Marketers must optimize for both:
+* Human audiences.
+* AI systems consuming and referencing content.
+
+**3. AI Visibility Requires Strategic Adaptation**
+Marketing strategies should account for how AI discovers, processes, and learns from content.
+
 ### Full Post:
 
 Sam Altman said something lately that we should all pay attention to:
@@ -43,6 +54,10 @@ It's time for marketers to shift their strategies accordingly.
 
 ## Insights:
 
+* Content has value beyond immediate traffic.
+* AI models are creating a second layer of content consumption.
+* Marketers need to optimize for both humans and machines.
+
 ---
 
 # Post 2:
@@ -52,6 +67,20 @@ Date: 27/05/2026
 URL: https://www.linkedin.com/posts/rosssimmonds_marketing-aivisibility-contentmarketing-share-7465207706472259584-FE_s/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAECTLMwBqhAP0hyI2pYs9ZcTiD92eKbqS1k
 
 ## Key Themes:
+
+**1. E-E-A-T Is the Most Important AI Visibility Signal**
+Expert-driven, research-backed content earns more citations from LLMs.
+
+**2. Authority Beyond Your Website Matters**
+Over 80% of high-priority B2B SaaS keyword citations came from third-party sources rather than company websites.
+
+**3. Different LLMs Prefer Different Platforms**
+* Perplexity → LinkedIn
+* Gemini → YouTube
+* ChatGPT → Reddit
+
+**4. Distribution Is Part of AI SEO**
+Brands should spread content across multiple trusted platforms, not rely solely on their own domains.
 
 ### Full Post:
 
@@ -99,3 +128,8 @@ You have to run a marketing playbook rooted in EEAT that will help you win.
 ![AI SEO](/research/photos/ross-2.jpeg)
 
 ## Insights:
+
+* E-E-A-T remains a core ranking and citation signal.
+* Off-site authority is increasingly important.
+* AI visibility requires platform-specific analysis.
+* Distribution strategy is becoming as important as content creation.

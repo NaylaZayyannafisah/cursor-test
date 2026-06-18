@@ -1,11 +1,13 @@
-Lily Ray
+### Lily Ray
 
-The Role od AI Content in SEO
+# Title: Your GEO Strategy Might Be Destroying Your SEO
 
-URL: https://www.amsive.com/insights/seo/the-role-of-ai-content-in-seo/
+Date: 19/03/2026
 
-Key Themes:
+URL: https://lilyraynyc.substack.com/p/your-geo-strategy-might-be-destroying
 
-Full Article:
+### Key Themes:
 
-Insights:
+## Full Article:
+
+### Insights:
